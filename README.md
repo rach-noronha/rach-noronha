@@ -1,5 +1,10 @@
-### Hi there 👋
+![Banner GitHub](https://user-images.githubusercontent.com/101841619/191389847-4c70799b-6467-439f-b5d1-0f00e227dd2c.png)
 
+## Hello, welcome to my GitHub 👋
+### Aspiring developer and cadet at 42SP! 👩‍💻
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=fe6e95&logoColor=white)](https://www.linkedin.com/in/raqueldenoronha/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rach-noronha&theme=moltack&layout=compact"/>
 <!--
 **rach-noronha/rach-noronha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
