@@ -21,7 +21,7 @@ I'm always eager to learn new things and being in touch with technology and I'm 
 </div>
 
 
-| [![stats](https://github-readme-stats.vercel.app/api?username=rach-noronha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=panda)](https://github.com/rach-noronha?tab=repositories) | [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rach-noronha&layout=compact&hide_border=true&theme=panda)](https://github.com/rach-noronha?tab=repositories) |
+| [![Rach's GitHub stats](https://github-readme-stats.vercel.app/api?username=rach-noronha&layout=compact&hide=contribs&hide_border=true&theme=panda)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/rach-noronha?tab=repositories)) | [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rach-noronha&layout=compact&hide_border=true&theme=panda)](https://github.com/rach-noronha?tab=repositories) |
 |:-:|:-:|
 
 <!--
