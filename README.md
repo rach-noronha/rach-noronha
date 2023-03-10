@@ -13,6 +13,7 @@ I'm always eager to learn new things and being in touch with technology and I'm 
   [![Libft](https://github.com/RenanHenrique90/RenanHenrique90/blob/main/42_badges/libftm.png)](https://github.com/rach-noronha/Libft_42)
   [![GNL](https://github.com/Rguilher/Rguilher/blob/main/42_badges/get_next_linem.png)](https://github.com/rach-noronha/Get_Next_Line_42)
   [![Printf](https://github.com/Rguilher/Rguilher/blob/main/42_badges/ft_printfe.png)](https://github.com/rach-noronha/Printf_42)
+  [![Born2BRoot](https://github.com/Rguilher/Rguilher/blob/main/42_badges/born2berootm.png)](https://github.com/rach-noronha)
   
 </div>
 
