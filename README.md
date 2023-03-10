@@ -17,15 +17,18 @@ I'm always eager to learn new things and being in touch with technology and I'm 
   
 </div>
 
+<!--
 ## 42 Status
 <div align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9urvjf700200fk291m95mlf/stats?cursusId=21&coalitionId=piscine" alt="rde-noro's 42 stats" /></a>
 </div>
-
-
-| [![Rach's GitHub stats](https://github-readme-stats.vercel.app/api?username=rach-noronha&layout=compact&hide=contribs&hide_border=true&theme=panda)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/rach-noronha?tab=repositories)) | [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rach-noronha&layout=compact&hide_border=true&theme=panda)](https://github.com/rach-noronha?tab=repositories) |
-|:-:|:-:|
-
+-->
+##
+<div align="center">
+  
+[![Rach's GitHub stats](https://github-readme-stats.vercel.app/api?username=rach-noronha&layout=compact&hide=contribs&hide_border=true&theme=panda)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/rach-noronha?tab=repositories)) [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rach-noronha&layout=compact&hide_border=true&theme=panda)](https://github.com/rach-noronha?tab=repositories)
+  
+</div>
 <!--
 **rach-noronha/rach-noronha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
