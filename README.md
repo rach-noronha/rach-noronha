@@ -15,7 +15,7 @@ I'm always eager to learn new things and being in touch with technology and I'm 
   [![Ana Paula Moda](https://cdn-icons-png.flaticon.com/128/5579/5579561.png)](https://github.com/rach-noronha/projeto-ana-paula-moda)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![Ana Paula Moda](https://play-lh.googleusercontent.com/CdyTqwhQ_v9xaaIVUt0PCme91gfEvPDvhkl6N933OuiNE_OtAVHbxvC-49qLUViwQSg=s128-rw)](https://github.com/rach-noronha/Cursos_Alura)
   
-  *Ana Paula Moda*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Alura Courses*
+  *Ana Paula Moda*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Alura Courses*
   
 </div>
 
