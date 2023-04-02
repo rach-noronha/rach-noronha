@@ -1,7 +1,7 @@
 ![Banner GitHub](https://user-images.githubusercontent.com/101841619/191389847-4c70799b-6467-439f-b5d1-0f00e227dd2c.png)
 
 ## Hello, welcome to my GitHub <img src="https://i.pinimg.com/originals/bd/40/66/bd406650e751e8bddd577d65ac55e5fc.gif" width="30px">
-### Aspiring CyberOps Associate, security geek and former cadet at [42SP](https://www.42sp.org.br/)! 👩‍💻
+### Aspiring CyberOps Associate, security geek, mentee at [CloudGirls](https://www.cloudgirls.com.br/)☁ and former cadet at [42SP](https://www.42sp.org.br/)! 👩‍💻
 I'm always eager to learn new things and being in touch with technology and I'm currently studying Cybersecurity and infrastructure on the Cloud (GCP, Azure and AWS). I'm also working on some HTML, CSS and JavaScript projects, 'cause you never know when you'll need to find hardcoded information out there 😅 Working with IT greatly develops my potential and my eagerness to be able to contribute to projects that keep the world and it's data safe!
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=fe6e95&logoColor=white)](https://www.linkedin.com/in/raqueldenoronha/)
