@@ -1,7 +1,7 @@
 ![Banner GitHub](https://user-images.githubusercontent.com/101841619/191389847-4c70799b-6467-439f-b5d1-0f00e227dd2c.png)
 
 ## Hello, welcome to my GitHub <img src="https://i.pinimg.com/originals/bd/40/66/bd406650e751e8bddd577d65ac55e5fc.gif" width="30px">
-### Computer Engineer student, former mentee at [CloudGirls](https://www.cloudgirls.com.br/)☁ and former cadet at [42SP](https://www.42sp.org.br/)! 👩‍💻
+### Computer Engineering student, former mentee at [CloudGirls](https://www.cloudgirls.com.br/)☁ and former cadet at [42SP](https://www.42sp.org.br/)! 👩‍💻
 I'm always eager to learn new things and being in touch with technology and I'm currently back at studying Programming after being an Intern at an Infrastructure company, where I worked with Cloud (GCP, Azure, AWS and Microsoft 365) and Monitoring (Zabbix and Datadog). <!--I'm also working on some HTML, CSS and JavaScript projects, 'cause you never know when you'll need to find hardcoded information out there 😅--> Working with IT greatly develops my potential and my eagerness to be able to contribute to projects that might change the world!
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=fe6e95&logoColor=white)](https://www.linkedin.com/in/raqueldenoronha/)
